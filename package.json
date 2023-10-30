@@ -1,0 +1,21 @@
+{
+  "name": "cypressederson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.3.3",
+    "cypress-plugin-api": "^2.11.1"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^8.2.0"
+  }
+}

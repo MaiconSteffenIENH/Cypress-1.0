@@ -1,0 +1,11 @@
+{
+  "name": "Maicon",
+  "emailADM": "maiconsteffen@qa.com.br",
+  "passwordADM": "teste",
+  "admT": "true",
+  "email": "maiconqa@qa.com.br",
+  "password": "teste",
+  "emailIncorreto": "maiconincorreto@qa.com.br",
+  "passwordIncorreto": "testeincorreto",
+  "body": "Fixtures are a great way to mock data for responses to routes"
+}
