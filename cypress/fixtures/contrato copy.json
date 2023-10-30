@@ -1,0 +1,15 @@
+{
+  "type": "object",
+  "properties": {
+    "message": {
+      "type": "integer"
+    },
+    "_id": {
+      "type": "integer"
+    }
+  },
+  "required": [
+    "message",
+    "_id"
+  ]
+}
